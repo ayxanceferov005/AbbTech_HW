@@ -1,3 +1,5 @@
+package AbbTech_Ev_Tapsirigi;
+
 public class AbbTech_Task7 {
     public static void main (String[] args){
 
