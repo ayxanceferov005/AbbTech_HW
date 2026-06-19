@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ABB Tech Academy – Ev Tapşırığı
 
 Bu repository ABB Tech Academy üçün hazırlanmış ev tapşırığını əhatə edir.
